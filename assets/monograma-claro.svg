@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 350" role="img" aria-labelledby="title desc">
+  <title id="title">Símbolo de Denise Fernandes Dias</title>
+  <desc id="desc">Letra F em uma moldura arquitetônica clássica.</desc>
+  <g fill="none" stroke="#dfacba">
+    <path d="M115 27c53 0 91 38 91 91v129c0 22-37 52-91 74-54-22-91-52-91-74V118c0-53 38-91 91-91Z" stroke-width="3"/>
+    <path d="M115 43c44 0 75 31 75 75v123c0 15-30 40-75 59-45-19-75-44-75-59V118c0-44 31-75 75-75Z" stroke-width="1"/>
+    <path d="M76 89h78M76 260h78" stroke-width="1"/>
+  </g>
+  <path d="M115 59l5 7-5 7-5-7 5-7Zm0 213 5 7-5 7-5-7 5-7Z" fill="#dfacba"/>
+  <text x="115" y="220" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="164" fill="#f5eee8">F</text>
+</svg>
+
+
