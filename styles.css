@@ -26,9 +26,9 @@ button { font: inherit; }
 
 .site-header { position: sticky; top: 0; z-index: 20; background: rgba(29,32,36,.96); color: var(--dark-text); border-bottom: 1px solid #55524d; backdrop-filter: blur(14px); }
 .site-header::after { content: ""; position: absolute; right: 0; bottom: -1px; left: 0; height: 2px; background: var(--accent-light); transform: scaleX(var(--scroll-progress, 0)); transform-origin: left; pointer-events: none; }
-.header-inner { min-height: 86px; display: flex; align-items: center; justify-content: space-between; gap: 32px; }
-.brand { display: inline-flex; align-items: center; gap: 13px; min-width: 0; text-decoration: none; line-height: 1.12; white-space: nowrap; }
-.brand-mark { flex: none; width: 43px; height: 66px; object-fit: contain; }
+.header-inner { min-height: 78px; display: flex; align-items: center; justify-content: space-between; gap: 32px; }
+.brand { display: inline-flex; align-items: center; gap: 11px; min-width: 0; text-decoration: none; line-height: 1.12; white-space: nowrap; }
+.brand-mark { flex: none; width: 38px; height: 58px; object-fit: contain; }
 .brand-copy { display: flex; min-width: 0; flex-direction: column; }
 .brand-name { color: var(--dark-text); font: 400 20px/1.15 Georgia, "Times New Roman", serif; letter-spacing: -.025em; }
 .brand-name strong { font-weight: 700; }
