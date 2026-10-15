@@ -149,8 +149,10 @@ button { font: inherit; }
 .contact-details .map-link { display: inline-block; margin-top: 7px; color: var(--accent-light); font-size: 14px; font-weight: 700; }
 
 .site-footer { background: #15171a; color: var(--dark-text); }
-.footer-inner { display: flex; justify-content: space-between; align-items: end; gap: 25px; padding-block: 32px 24px; }
-.footer-logo { width: min(100%, 360px); height: auto; }
+.footer-inner { display: flex; justify-content: space-between; align-items: center; gap: 25px; padding-block: 22px; }
+.footer-brand .brand-mark { width: 31px; height: 47px; }
+.footer-brand .brand-name { font-size: 17px; }
+.footer-brand .brand-role { font-size: 9px; }
 .footer-inner span, .footer-inner a, .footer-bottom { color: #decdd1; font-size: 13px; }
 .footer-inner a { text-decoration: none; }
 .footer-inner a:hover { text-decoration: underline; }
